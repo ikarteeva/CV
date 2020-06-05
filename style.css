@@ -114,6 +114,11 @@ h2 {
     font-size:19px;
 }
 
+.card-img-top {
+    max-width: 350px;
+    max-height: 350px;
+}
+
 
 @media (max-width: 576px) {
     .col-img {
