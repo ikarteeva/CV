@@ -74,7 +74,10 @@
     border-radius: 4px;
 }
 
-
+.btn
+{
+    background: #262222;
+}
 
 .block {
     display: flex;
@@ -96,4 +99,27 @@
     flex-direction: column;
     margin: 0 auto;
     padding: 20px;
+}
+
+h2 {
+        width: 50rem;
+}
+
+.card {
+       width: 17rem; 
+       font-size:14px;
+}
+
+.card-header {
+    font-size:19px;
+}
+
+
+@media (max-width: 740px) {
+    .col-img {
+        margin: 0 auto 20px auto;
+    }
+    .col-text {
+        width: 100%;
+    }
 }
