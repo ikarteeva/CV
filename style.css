@@ -65,7 +65,7 @@
     flex-direction: column;
     width: 100%;
     margin-bottom: 10px;
-    margin-left: 5px;
+    padding: 10px;
 }
 
 
@@ -90,7 +90,6 @@
     border: 1px solid #dfe2e8;
     border-radius: 4px;
     padding: 20px;
-    margin-left: 5px;
     margin-top: 10px;
 }
 
