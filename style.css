@@ -76,7 +76,7 @@
 
 .btn
 {
-    background: #262222;
+    background: #262222; 
 }
 
 .block {
@@ -106,7 +106,7 @@ h2 {
 }
 
 .card {
-       width: 17rem; 
+       width: auto; 
        font-size:14px;
 }
 
@@ -115,7 +115,7 @@ h2 {
 }
 
 
-@media (max-width: 740px) {
+@media (max-width: 576px) {
     .col-img {
         margin: 0 auto 20px auto;
     }
